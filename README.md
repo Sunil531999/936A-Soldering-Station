@@ -27,6 +27,11 @@ Parts Required:
 18. 1N4148 Zener Diode
 19. 5v Zener Diode
 
+2D and 3D View:
+==================
+<img src="https://github.com/Sunil531999/936A-Soldering-Station/blob/main/Pic/2D%20View.png" width="500" height="250">
+<img src="https://github.com/Sunil531999/936A-Soldering-Station/blob/main/Pic/3D%20View.png" width="500" height="250">
+
 Images:
 =========
 <img src="https://github.com/Sunil531999/936A-Soldering-Station/blob/main/Pic/6.jpg" width="500" height="250">
